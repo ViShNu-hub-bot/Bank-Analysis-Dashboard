@@ -21,16 +21,21 @@ This project aims to provide a comprehensive analysis of banking data using Powe
 
 ## How to Use
 1. Ensure you have Power BI Desktop installed on your system.
-2. Download the project files from [repository link].
+2. Download the project files from [GitHub](https://github.com/ViShNu-hub-bot/Bank-Analysis-Dashboard).
 3. Open Power BI Desktop and import the provided dataset.
 4. Navigate to each page of the dashboard to explore different analyses.
 5. Interact with slicers and charts to filter and drill down into specific data points.
 6. Utilize the insights gained for informed decision-making in the banking domain.
 
+## Novy Pro Link
+[Novy Pro Link](https://www.novypro.com/project/bank-analysis-dashboard-1)
+
+## GitHub Repository
+[GitHub Repository](https://github.com/ViShNu-hub-bot/Bank-Analysis-Dashboard)
+
 ## Future Improvements
 - Incorporate additional data sources for a more holistic analysis.
 - Enhance visualization aesthetics for better user experience.
 - Implement advanced analytics techniques such as predictive modeling for forecasting.
-
 
 
